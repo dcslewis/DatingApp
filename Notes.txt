@@ -1,0 +1,11 @@
+"sdk": {
+    "version": "5.0.302"
+  }
+
+   <TargetFramework>net5.0</TargetFramework>
+   
+
+   Num 17
+
+    git init to start a repository
+    
